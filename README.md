@@ -2,16 +2,16 @@
 
 ##A Wordpress theme so bare it has no html or css at all
 
-No Header, No Footer
+No Header, No Footer - Just the loop and the main post functions
 
 ##Just the bare essentials:
 
-Front Page 
+Front Page PHP
 
-Index (Blog)
+Index (Blog) PHP
 
-Comments
+Comments PHP
 
-Functions
+Functions PHP
 
-Style
+Style CSS
